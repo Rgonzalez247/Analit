@@ -1,416 +1,416 @@
-﻿Componente,Prob_Comp,Condicion,Prob_Cond,SIR 1 MIS
-Accesorios,0.00%,Abierto/Alambrado Abierto,0.00%,0
-Accesorios,0.00%,Deformado/Torcido,0.00%,0
-Accesorios,0.00%,Desalineado/Desensamblado,0.00%,0
-Accesorios,0.00%,Desgastado/Barrido/Cristalizado,0.00%,0
-Accesorios,0.00%,En Corto/Aterrizado,0.00%,0
-Accesorios,0.00%,Fugas/Se Verificaron Fugas,0.00%,0
-Accesorios,0.00%,Partes Faltantes/Incorrectas/Añadidas,0.00%,0
-Accesorios,0.00%,Pegado/Congelado/Atrancado,0.00%,0
-Accesorios,0.00%,Quebrado/Trozado/Arrancado,0.00%,0
-Accesorios,0.00%,Suelto/Desprendido/Flojo,0.00%,0
-Actuador de Cambio/Cambiador/Optico de Movimiento,0.10%,Abierto/Alambrado Abierto,0.00%,0
-Actuador de Cambio/Cambiador/Optico de Movimiento,0.10%,Aceitado/Lubricado,0.00%,0
-Actuador de Cambio/Cambiador/Optico de Movimiento,0.10%,Cable Suelto/Roto/Cruzado,0.00%,0
-Actuador de Cambio/Cambiador/Optico de Movimiento,0.10%,Desalineado/Desensamblado,0.00%,0
-Actuador de Cambio/Cambiador/Optico de Movimiento,0.10%,Desgastado/Barrido/Cristalizado,0.00%,0
-Actuador de Cambio/Cambiador/Optico de Movimiento,0.10%,En Corto/Aterrizado,0.10%,2
-Actuador de Cambio/Cambiador/Optico de Movimiento,0.10%,Objeto Extraño Removido,0.00%,0
-Actuador de Cambio/Cambiador/Optico de Movimiento,0.10%,Pegado/Congelado/Atrancado,0.00%,0
-Actuador de Cambio/Cambiador/Optico de Movimiento,0.10%,Quebrado/Trozado/Arrancado,0.00%,0
-Actuador de Cambio/Cambiador/Optico de Movimiento,0.10%,Quemado,0.00%,0
-Actuador de Cambio/Cambiador/Optico de Movimiento,0.10%,Ruido/Nivel de Sonido Excesivo,0.00%,0
-Actuador de Cambio/Cambiador/Optico de Movimiento,0.10%,Suelto/Desprendido/Flojo,0.00%,0
-Actuador de Cambio/Cambiador/Optico de Movimiento,0.10%,Tapado/Bloqueado/Restringido/Sucio,0.00%,0
-Agitador/Propela,0.10%,Áspero/Cortante,0.00%,0
-Agitador/Propela,0.10%,Deformado/Torcido,0.00%,0
-Agitador/Propela,0.10%,Desalineado/Desensamblado,0.00%,0
-Agitador/Propela,0.10%,Desgastado/Barrido/Cristalizado,0.00%,0
-Agitador/Propela,0.10%,Objeto Extraño Removido,0.00%,0
-Agitador/Propela,0.10%,Pegado/Congelado/Atrancado,0.00%,0
-Agitador/Propela,0.10%,Quebrado/Trozado/Arrancado,0.05%,1
-Agitador/Propela,0.10%,Suelto/Desprendido/Flojo,0.05%,1
-Agitador/Propela,0.10%,Tornillos/Pijas Flojos/Sueltos/Faltantes/Barridos,0.00%,0
-Amortiguador,0.03%,Deformado/Torcido,0.00%,0
-Amortiguador,0.03%,Desalineado/Desensamblado,0.03%,1
-Amortiguador,0.03%,Quebrado/Trozado/Arrancado,0.00%,0
-Amortiguador,0.03%,Suelto/Desprendido/Flojo,0.00%,0
-Anillo de Balance,0.00%,Deformado/Torcido,0.00%,0
-Anillo de Balance,0.00%,Desalineado/Desensamblado,0.00%,0
-Anillo de Balance,0.00%,Quebrado/Trozado/Arrancado,0.00%,0
-Anillo Tina/Protector de Anillo Tina,0.00%,Aceitado/Lubricado,0.00%,0
-Anillo Tina/Protector de Anillo Tina,0.00%,Deformado/Torcido,0.00%,0
-Anillo Tina/Protector de Anillo Tina,0.00%,Desalineado/Desensamblado,0.00%,0
-Anillo Tina/Protector de Anillo Tina,0.00%,Desgastado/Barrido/Cristalizado,0.00%,0
-Anillo Tina/Protector de Anillo Tina,0.00%,Quebrado/Trozado/Arrancado,0.00%,0
-Arnés,1.27%,Abierto/Alambrado Abierto,0.00%,0
-Arnés,1.27%,Cable Suelto/Roto/Cruzado,1.09%,6
-Arnés,1.27%,Desalineado/Desensamblado,0.00%,0
-Arnés,1.27%,En Corto/Aterrizado,0.18%,1
-Arnés,1.27%,Quebrado/Trozado/Arrancado,0.00%,0
-Arnés,1.27%,Quemado,0.00%,0
-Arnés,1.27%,Suelto/Desprendido/Flojo,0.00%,0
-Bandas,0.10%,Deformado/Torcido,0.00%,0
-Bandas,0.10%,Desalineado/Desensamblado,0.10%,2
-Bandas,0.10%,Desgastado/Barrido/Cristalizado,0.00%,0
-Bandas,0.10%,Objeto Extraño Removido,0.00%,0
-Bandas,0.10%,Pegado/Congelado/Atrancado,0.00%,0
-Bandas,0.10%,Quebrado/Trozado/Arrancado,0.00%,0
-Bandas,0.10%,Ruido/Nivel de Sonido Excesivo,0.00%,0
-Bandas,0.10%,Suelto/Desprendido/Flojo,0.00%,0
-Bisagra,0.00%,Aceitado/Lubricado,0.00%,0
-Bisagra,0.00%,Deformado/Torcido,0.00%,0
-Bisagra,0.00%,Desalineado/Desensamblado,0.00%,0
-Bisagra,0.00%,Desgastado/Barrido/Cristalizado,0.00%,0
-Bisagra,0.00%,Oxidado/Corroído,0.00%,0
-Bisagra,0.00%,Partes Faltantes/Incorrectas/Añadidas,0.00%,0
-Bisagra,0.00%,Quebrado/Trozado/Arrancado,0.00%,0
-Bisagra,0.00%,Ruido/Nivel de Sonido Excesivo,0.00%,0
-Bisagra,0.00%,Tornillos/Pijas Flojos/Sueltos/Faltantes/Barridos,0.00%,0
-Bomba de Desagüe,0.65%,Abierto/Alambrado Abierto,0.26%,2
-Bomba de Desagüe,0.65%,Cable Suelto/Roto/Cruzado,0.00%,0
-Bomba de Desagüe,0.65%,Desalineado/Desensamblado,0.00%,0
-Bomba de Desagüe,0.65%,Desgastado/Barrido/Cristalizado,0.00%,0
-Bomba de Desagüe,0.65%,Empaque/Sello Defectuoso/Faltante,0.00%,0
-Bomba de Desagüe,0.65%,En Corto/Aterrizado,0.00%,0
-Bomba de Desagüe,0.65%,Fugas/Se Verificaron Fugas,0.00%,0
-Bomba de Desagüe,0.65%,Objeto Extraño Removido,0.00%,0
-Bomba de Desagüe,0.65%,Quebrado/Trozado/Arrancado,0.00%,0
-Bomba de Desagüe,0.65%,Quemado,0.13%,1
-Bomba de Desagüe,0.65%,Ruido/Nivel de Sonido Excesivo,0.26%,2
-Bomba de Desagüe,0.65%,Tapado/Bloqueado/Restringido/Sucio,0.00%,0
-Cable Tomacorriente,0.00%,Abierto/Alambrado Abierto,0.00%,0
-Cable Tomacorriente,0.00%,Cable Suelto/Roto/Cruzado,0.00%,0
-Cable Tomacorriente,0.00%,Desalineado/Desensamblado,0.00%,0
-Cable Tomacorriente,0.00%,En Corto/Aterrizado,0.00%,0
-Cable Tomacorriente,0.00%,Invertido,0.00%,0
-Cable Tomacorriente,0.00%,Partes Faltantes/Incorrectas/Añadidas,0.00%,0
-Cable Tomacorriente,0.00%,Quebrado/Trozado/Arrancado,0.00%,0
-Cable Tomacorriente,0.00%,Quemado,0.00%,0
-Cable Tomacorriente,0.00%,Sobrecargado,0.00%,0
-Cable Tomacorriente,0.00%,Suelto/Desprendido/Flojo,0.00%,0
-Canasta/Tambor/Bulkhead,0.00%,Áspero/Cortante,0.00%,0
-Canasta/Tambor/Bulkhead,0.00%,Deformado/Torcido,0.00%,0
-Canasta/Tambor/Bulkhead,0.00%,Desalineado/Desensamblado,0.00%,0
-Canasta/Tambor/Bulkhead,0.00%,Desgastado/Barrido/Cristalizado,0.00%,0
-Canasta/Tambor/Bulkhead,0.00%,Objeto Extraño Removido,0.00%,0
-Canasta/Tambor/Bulkhead,0.00%,Oxidado/Corroído,0.00%,0
-Canasta/Tambor/Bulkhead,0.00%,Pegado/Congelado/Atrancado,0.00%,0
-Canasta/Tambor/Bulkhead,0.00%,Quebrado/Trozado/Arrancado,0.00%,0
-Canasta/Tambor/Bulkhead,0.00%,Recubrimiento Defectuoso/Mal Esmaltado,0.00%,0
-Canasta/Tambor/Bulkhead,0.00%,Suelto/Desprendido/Flojo,0.00%,0
-Capacitor/Kit de Arranque,0.00%,Abierto/Alambrado Abierto,0.00%,0
-Capacitor/Kit de Arranque,0.00%,Cable Suelto/Roto/Cruzado,0.00%,0
-Capacitor/Kit de Arranque,0.00%,Desalineado/Desensamblado,0.00%,0
-Capacitor/Kit de Arranque,0.00%,Desgastado/Barrido/Cristalizado,0.00%,0
-Capacitor/Kit de Arranque,0.00%,En Corto/Aterrizado,0.00%,0
-Capacitor/Kit de Arranque,0.00%,Pegado/Congelado/Atrancado,0.00%,0
-Capacitor/Kit de Arranque,0.00%,Quebrado/Trozado/Arrancado,0.00%,0
-Capacitor/Kit de Arranque,0.00%,Quemado,0.00%,0
-Capacitor/Kit de Arranque,0.00%,Ruido/Nivel de Sonido Excesivo,0.00%,0
-Capacitor/Kit de Arranque,0.00%,Suelto/Desprendido/Flojo,0.00%,0
-Carga Inadecuada,0.00%,Carga Inapropiada,0.00%,0
-Cliente Rechazó Reparación (sin Reparación “w”),0.00%,Cambio de Producto,0.00%,0
-Cliente Rechazó Reparación (sin Reparación “w”),0.00%,Costo de Reparación no Rentable,0.00%,0
-"CojInetes de Fricción (Snubber,PAD)",0.00%,Desgastado/Barrido/Cristalizado,0.00%,0
-"CojInetes de Fricción (Snubber,PAD)",0.00%,Quebrado/Trozado/Arrancado,0.00%,0
-Cople (Motor-Transmisión),0.00%,Desgastado/Barrido/Cristalizado,0.00%,0
-Cople (Motor-Transmisión),0.00%,Quebrado/Trozado/Arrancado,0.00%,0
-Cople (Motor-Transmisión),0.00%,Suelto/Desprendido/Flojo,0.00%,0
-Deflector de Entrada de Agua,0.00%,Deformado/Torcido,0.00%,0
-Deflector de Entrada de Agua,0.00%,Desalineado/Desensamblado,0.00%,0
-Deflector de Entrada de Agua,0.00%,Fugas/Se Verificaron Fugas,0.00%,0
-Deflector de Entrada de Agua,0.00%,Quebrado/Trozado/Arrancado,0.00%,0
-Deflector de Entrada de Agua,0.00%,tornillos/Pijas Flojos/Sueltos/Faltantes/Barridos,0.00%,0
-Despachador de Cloro/Blanqueador,0.00%,Quebrado/Trozado/Arrancado,0.00%,0
-Despachador de Suavizante de Telas,0.00%,Desalineado/Desensamblado,0.00%,0
-Despachador de Suavizante de Telas,0.00%,Partes Faltantes/Incorrectas/Añadidas,0.00%,0
-Despachador de Suavizante de Telas,0.00%,Pegado/Congelado/Atrancado,0.00%,0
-Despachador de Suavizante de Telas,0.00%,Quebrado/Trozado/Arrancado,0.00%,0
-Despachador de Suavizante de Telas,0.00%,Tapado/Bloqueado/Restringido/Sucio,0.00%,0
-Embrague/Clutch,0.03%,Abierto/Alambrado Abierto,0.00%,0
-Embrague/Clutch,0.03%,Deformado/Torcido,0.00%,0
-Embrague/Clutch,0.03%,Desalineado/Desensamblado,0.00%,0
-Embrague/Clutch,0.03%,Desgastado/Barrido/Cristalizado,0.03%,1
-Embrague/Clutch,0.03%,Pegado/Congelado/Atrancado,0.00%,0
-Embrague/Clutch,0.03%,Quebrado/Trozado/Arrancado,0.00%,0
-Embrague/Clutch,0.03%,Quemado,0.00%,0
-Embrague/Clutch,0.03%,Ruido/Nivel de Sonido Excesivo,0.00%,0
-Embrague/Clutch,0.03%,Suelto/Desprendido/Flojo,0.00%,0
-Embrague/Clutch,0.03%,Tornillos/Pijas Flojos/Sueltos/Faltantes/Barridos,0.00%,0
-Ensamble Consola (Copete),0.00%,Deformado/Torcido,0.00%,0
-Ensamble Consola (Copete),0.00%,Desalineado/Desensamblado,0.00%,0
-Ensamble Consola (Copete),0.00%,Manchas/Decolorado,0.00%,0
-Ensamble Consola (Copete),0.00%,Quebrado/Trozado/Arrancado,0.00%,0
-Ensamble Consola (Copete),0.00%,Quemado,0.00%,0
-Ensamble Consola (Copete),0.00%,Recubrimiento Defectuoso/Mal Esmaltado,0.00%,0
-Ensamble Consola (Copete),0.00%,Ruido/Nivel de Sonido Excesivo,0.00%,0
-Ensamble Consola (Copete),0.00%,Suelto/Desprendido/Flojo,0.00%,0
-Ensamble Consola (Copete),0.00%,Tornillos/Pijas Flojos/Sueltos/Faltantes/Barridos,0.00%,0
-Ensamble Contenedor/Cajón,0.00%,Deformado/Torcido,0.00%,0
-Ensamble Contenedor/Cajón,0.00%,Desalineado/Desensamblado,0.00%,0
-Ensamble Contenedor/Cajón,0.00%,Partes Faltantes/Incorrectas/Añadidas,0.00%,0
-Ensamble Contenedor/Cajón,0.00%,Pegado/Congelado/Atrancado,0.00%,0
-Ensamble Contenedor/Cajón,0.00%,Quebrado/Trozado/Arrancado,0.00%,0
-Ensamble Contenedor/Cajón,0.00%,Suelto/Desprendido/Flojo,0.00%,0
-Ensamble de Cerradura,0.00%,Deformado/Torcido,0.00%,0
-Ensamble de Cerradura,0.00%,Desalineado/Desensamblado,0.00%,0
-Ensamble de Cerradura,0.00%,Desgastado/Barrido/Cristalizado,0.00%,0
-Ensamble de Cerradura,0.00%,Oxidado/Corroído,0.00%,0
-Ensamble de Cerradura,0.00%,Pegado/Congelado/Atrancado,0.00%,0
-Ensamble de Cerradura,0.00%,Quebrado/Trozado/Arrancado,0.00%,0
-Ensamble de Cerradura,0.00%,Quemado,0.00%,0
-Ensamble de Cerradura,0.00%,Tornillos/Pijas Flojos/Sueltos/Faltantes/Barridos,0.00%,0
-Ensamble Transmisión/Engrane/Engranaje(Leva),0.10%,Aceitado/Lubricado,0.00%,0
-Ensamble Transmisión/Engrane/Engranaje(Leva),0.10%,Desalineado/Desensamblado,0.00%,0
-Ensamble Transmisión/Engrane/Engranaje(Leva),0.10%,Desgastado/Barrido/Cristalizado,0.00%,0
-Ensamble Transmisión/Engrane/Engranaje(Leva),0.10%,Empaque/Sello Defectuoso/Faltante,0.00%,0
-Ensamble Transmisión/Engrane/Engranaje(Leva),0.10%,En Corto/Aterrizado,0.00%,0
-Ensamble Transmisión/Engrane/Engranaje(Leva),0.10%,Objeto Extraño Removido,0.00%,0
-Ensamble Transmisión/Engrane/Engranaje(Leva),0.10%,Oxidado/Corroído,0.00%,0
-Ensamble Transmisión/Engrane/Engranaje(Leva),0.10%,Pegado/Congelado/Atrancado,0.00%,0
-Ensamble Transmisión/Engrane/Engranaje(Leva),0.10%,Quebrado/Trozado/Arrancado,0.05%,1
-Ensamble Transmisión/Engrane/Engranaje(Leva),0.10%,Quemado,0.00%,0
-Ensamble Transmisión/Engrane/Engranaje(Leva),0.10%,Ruido/Nivel de Sonido Excesivo,0.05%,1
-Ensamble Transmisión/Engrane/Engranaje(Leva),0.10%,Tornillos/Pijas Flojos/Sueltos/Faltantes/Barridos,0.00%,0
-Etiquetas / Placa marca,0.00%,Desalineado/Desensamblado,0.00%,0
-Etiquetas / Placa marca,0.00%,Partes Faltantes/Incorrectas/Añadidas,0.00%,0
-Etiquetas / Placa marca,0.00%,Quebrado/Trozado/Arrancado,0.00%,0
-Explicación de Ciclo Largo/ Demorado / Tiempo de Ejecución,0.00%,Intermitente/Errático,0.00%,0
-Freno/FrenoImpulsor (BlockPoste/TubSpin/BlockDrive),0.00%,Desalineado/Desensamblado,0.00%,0
-Funcionamiento No Satisfactorio,0.00%,Instrucción,0.00%,0
-Funcionamiento No Satisfactorio,0.00%,Reembolso,0.00%,0
-Gabinete,0.00%,Deformado/Torcido,0.00%,0
-Gabinete,0.00%,Desalineado/Desensamblado,0.00%,0
-Gabinete,0.00%,Manchas/Decolorado,0.00%,0
-Gabinete,0.00%,Objeto Extraño Removido,0.00%,0
-Gabinete,0.00%,Oxidado/Corroído,0.00%,0
-Gabinete,0.00%,Quebrado/Trozado/Arrancado,0.00%,0
-Gabinete,0.00%,Recubrimiento Defectuoso/Mal Esmaltado,0.00%,0
-Gabinete,0.00%,Tornillos/Pijas Flojos/Sueltos/Faltantes/Barridos,0.00%,0
-Instrucción General,0.00%,Característica no Incluída,0.00%,0
-Instrucción General,0.00%,Cliente llena manualmente,0.00%,0
-Instrucción General,0.00%,Explicación de Auto-Limpieza/Limpieza Continua/ Controles de Horno,0.00%,0
-Instrucción General,0.00%,Explicación de Ciclo de Exprimido,0.00%,0
-Instrucción General,0.00%,Explicación de Ciclo de Operación,0.00%,0
-Instrucción General,0.00%,Explicación del ciclo de Enjuagado / Enjuague por Rocio,0.00%,0
-Instrucción General,0.00%,Instalado por el Cliente,0.00%,0
-Instrucción General,0.00%,Lavado Insatisfactorio,0.00%,0
-Instrucción General,0.00%,Mal Olor,0.00%,0
-Instrucción General,0.00%,No se Encontró Problema,0.00%,0
-Instrucción General,0.00%,Rutina de seguridad del equipo,0.00%,0
-Instrucción General,0.00%,Secado Inadecuado,0.00%,0
-Instrucción General,0.00%,Subllenado,0.00%,0
-Instrucción General,0.00%,Sudando/Humedeciendo,0.00%,0
-Instrucción General,0.00%,Uso Comercial/Inapropiado,0.00%,0
-Instrucción General,0.00%,Uso de Despachado r/ Uso de Control / Luz Indicadora,0.00%,0
-Instrucción General,0.00%,Uso de Despachador/ Uso de Control / Luz Indicadora,0.00%,0
-Interfaz de usuario,0.00%,Abierto/Alambrado Abierto,0.00%,0
-Interfaz de usuario,0.00%,Cable Suelto/Roto/Cruzado,0.00%,0
-Interfaz de usuario,0.00%,Desgastado/Barrido/Cristalizado,0.00%,0
-Interfaz de usuario,0.00%,En Corto/Aterrizado,0.00%,0
-Interfaz de usuario,0.00%,Pegado/Congelado/Atrancado,0.00%,0
-Interfaz de usuario,0.00%,Quemado,0.00%,0
-Interruptor de Botón/Arranque/Control/Selector,0.00%,Abierto/Alambrado Abierto,0.00%,0
-Interruptor de Botón/Arranque/Control/Selector,0.00%,Cable Suelto/Roto/Cruzado,0.00%,0
-Interruptor de Botón/Arranque/Control/Selector,0.00%,Desalineado/Desensamblado,0.00%,0
-Interruptor de Botón/Arranque/Control/Selector,0.00%,En Corto/Aterrizado,0.00%,0
-Interruptor de Botón/Arranque/Control/Selector,0.00%,Pegado/Congelado/Atrancado,0.00%,0
-Interruptor de Botón/Arranque/Control/Selector,0.00%,Quebrado/Trozado/Arrancado,0.00%,0
-Interruptor de Botón/Arranque/Control/Selector,0.00%,Quemado,0.00%,0
-Interruptor de Tapa/Luz/Puerta,0.94%,Abierto/Alambrado Abierto,0.16%,1
-Interruptor de Tapa/Luz/Puerta,0.94%,Cable Suelto/Roto/Cruzado,0.00%,0
-Interruptor de Tapa/Luz/Puerta,0.94%,Desalineado/Desensamblado,0.00%,0
-Interruptor de Tapa/Luz/Puerta,0.94%,Desgastado/Barrido/Cristalizado,0.00%,0
-Interruptor de Tapa/Luz/Puerta,0.94%,En Corto/Aterrizado,0.31%,2
-Interruptor de Tapa/Luz/Puerta,0.94%,Pegado/Congelado/Atrancado,0.00%,0
-Interruptor de Tapa/Luz/Puerta,0.94%,Quebrado/Trozado/Arrancado,0.47%,3
-Interruptor de Tapa/Luz/Puerta,0.94%,Quemado,0.00%,0
-Interruptor Presión/NivelAgua/Flotador/Presotato,0.03%,Desalineado/Desensamblado,0.03%,1
-Interruptor sensor de carga,0.00%,Pegado/Congelado/Atrancado,0.00%,0
-Malla/Arandela de Malla/Malla de Válvula,0.00%,Tapado/Bloqueado/Restringido/Sucio,0.00%,0
-Manguera de Drenado Interna ( Manguera 'J' negra),0.00%,Desalineado/Desensamblado,0.00%,0
-Manguera de Drenado Interna ( Manguera 'J' negra),0.00%,Desgastado/Barrido/Cristalizado,0.00%,0
-Manguera de Drenado Interna ( Manguera 'J' negra),0.00%,Empaque/Sello Defectuoso/Faltante,0.00%,0
-Manguera de Drenado Interna ( Manguera 'J' negra),0.00%,Manguera/Tubo Doblado,0.00%,0
-Manguera de Drenado Interna ( Manguera 'J' negra),0.00%,Objeto Extraño Removido,0.00%,0
-Manguera de Drenado Interna ( Manguera 'J' negra),0.00%,Partes Faltantes/Incorrectas/Añadidas,0.00%,0
-Manguera de Drenado Interna ( Manguera 'J' negra),0.00%,Quebrado/Trozado/Arrancado,0.00%,0
-Manguera de Drenado Interna ( Manguera 'J' negra),0.00%,Suelto/Desprendido/Flojo,0.00%,0
-Manguera de Drenado Interna ( Manguera 'J' negra),0.00%,Tapado/Bloqueado/Restringido/Sucio,0.00%,0
-Manguera de Entrada,0.00%,Desalineado/Desensamblado,0.00%,0
-Manguera de Entrada,0.00%,Empaque/Sello Defectuoso/Faltante,0.00%,0
-Manguera de Entrada,0.00%,Fugas/Se Verificaron Fugas,0.00%,0
-Manguera de Entrada,0.00%,Manguera/Tubo Doblado,0.00%,0
-Manguera de Entrada,0.00%,Partes Faltantes/Incorrectas/Añadidas,0.00%,0
-Manguera de Entrada,0.00%,Quebrado/Trozado/Arrancado,0.00%,0
-Manguera de Entrada,0.00%,Suelto/Desprendido/Flojo,0.00%,0
-Mangueras Internas Misceláneas,0.00%,Abrazadera/Clip Suelto/Mal Colocado,0.00%,0
-Mangueras Internas Misceláneas,0.00%,Desalineado/Desensamblado,0.00%,0
-Mangueras Internas Misceláneas,0.00%,Fugas/Se Verificaron Fugas,0.00%,0
-Mangueras Internas Misceláneas,0.00%,Manguera/Tubo Doblado,0.00%,0
-Mangueras Internas Misceláneas,0.00%,Partes Faltantes/Incorrectas/Añadidas,0.00%,0
-Mangueras Internas Misceláneas,0.00%,Quebrado/Trozado/Arrancado,0.00%,0
-Mangueras Internas Misceláneas,0.00%,Suelto/Desprendido/Flojo,0.00%,0
-MicroPC/Tarjeta CPU/Modulo Potencia,9.39%,Abierto/Alambrado Abierto,1.98%,4
-MicroPC/Tarjeta CPU/Modulo Potencia,9.39%,Cable Suelto/Roto/Cruzado,0.00%,0
-MicroPC/Tarjeta CPU/Modulo Potencia,9.39%,Desalineado/Desensamblado,0.00%,0
-MicroPC/Tarjeta CPU/Modulo Potencia,9.39%,Descalibrado / Fuera de rango,0.49%,1
-MicroPC/Tarjeta CPU/Modulo Potencia,9.39%,En Corto/Aterrizado,4.94%,10
-MicroPC/Tarjeta CPU/Modulo Potencia,9.39%,Pegado/Congelado/Atrancado,0.00%,0
-MicroPC/Tarjeta CPU/Modulo Potencia,9.39%,Quebrado/Trozado/Arrancado,0.49%,1
-MicroPC/Tarjeta CPU/Modulo Potencia,9.39%,Quemado,0.00%,0
-MicroPC/Tarjeta CPU/Modulo Potencia,9.39%,Reseteo por bloqueo eléctrico,1.48%,3
-MicroPC/Tarjeta CPU/Modulo Potencia,9.39%,Ruido/Nivel de Sonido Excesivo,0.00%,0
-MicroPC/Tarjeta CPU/Modulo Potencia,9.39%,Tapado/Bloqueado/Restringido/Sucio,0.00%,0
-MicroPC/Tarjeta CPU/Modulo Potencia,9.39%,Variación de voltaje/Apagón de luz,0.00%,0
-Moldura Plástico Interior,0.00%,Deformado/Torcido,0.00%,0
-Moldura Plástico Interior,0.00%,Desalineado/Desensamblado,0.00%,0
-Moldura Plástico Interior,0.00%,Moldura Añadidad/Faltante,0.00%,0
-Moldura Plástico Interior,0.00%,Objeto Extraño Removido,0.00%,0
-Moldura Plástico Interior,0.00%,Partes Faltantes/Incorrectas/Añadidas,0.00%,0
-Moldura Plástico Interior,0.00%,Quebrado/Trozado/Arrancado,0.00%,0
-Moldura Plástico Interior,0.00%,Ruido/Nivel de Sonido Excesivo,0.00%,0
-Moldura Plástico Interior,0.00%,Suelto/Desprendido/Flojo,0.00%,0
-Moldura Plástico Interior,0.00%,Tornillos/Pijas Flojos/Sueltos/Faltantes/Barridos,0.00%,0
-Motor de Marcha Principal/Motor Principal,0.03%,Abierto/Alambrado Abierto,0.00%,0
-Motor de Marcha Principal/Motor Principal,0.03%,Alto Voltaje,0.00%,0
-Motor de Marcha Principal/Motor Principal,0.03%,Cable Suelto/Roto/Cruzado,0.03%,1
-Motor de Marcha Principal/Motor Principal,0.03%,Desalineado/Desensamblado,0.00%,0
-Motor de Marcha Principal/Motor Principal,0.03%,Desgastado/Barrido/Cristalizado,0.00%,0
-Motor de Marcha Principal/Motor Principal,0.03%,En Corto/Aterrizado,0.00%,0
-Motor de Marcha Principal/Motor Principal,0.03%,Objeto Extraño Removido,0.00%,0
-Motor de Marcha Principal/Motor Principal,0.03%,Pegado/Congelado/Atrancado,0.00%,0
-Motor de Marcha Principal/Motor Principal,0.03%,Quebrado/Trozado/Arrancado,0.00%,0
-Motor de Marcha Principal/Motor Principal,0.03%,Quemado,0.00%,0
-Motor de Marcha Principal/Motor Principal,0.03%,Ruido/Nivel de Sonido Excesivo,0.00%,0
-Motor de Marcha Principal/Motor Principal,0.03%,Sobrecargado,0.00%,0
-Motor de Marcha Principal/Motor Principal,0.03%,Suelto/Desprendido/Flojo,0.00%,0
-Motor de Marcha Principal/Motor Principal,0.03%,Tornillos/Pijas Flojos/Sueltos/Faltantes/Barridos,0.00%,0
-Otras Partes Eléctricas Misceláneas,0.00%,Abierto/Alambrado Abierto,0.00%,0
-Otras Partes Eléctricas Misceláneas,0.00%,Alto Voltaje,0.00%,0
-Otras Partes Eléctricas Misceláneas,0.00%,Cable Suelto/Roto/Cruzado,0.00%,0
-Otras Partes Eléctricas Misceláneas,0.00%,Desalineado/Desensamblado,0.00%,0
-Otras Partes Eléctricas Misceláneas,0.00%,En Corto/Aterrizado,0.00%,0
-Otras Partes Eléctricas Misceláneas,0.00%,Suelto/Desprendido/Flojo,0.00%,0
-Panel Frontal (Lavad),0.03%,Desalineado/Desensamblado,0.03%,1
-Panel Frontal (Lavad),0.03%,Oxidado/Corroído,0.00%,0
-Panel Frontal (Lavad),0.03%,Quebrado/Trozado/Arrancado,0.00%,0
-Perilla/Ensamble Perilla,0.00%,Deformado/Torcido,0.00%,0
-Perilla/Ensamble Perilla,0.00%,Derretido,0.00%,0
-Perilla/Ensamble Perilla,0.00%,Desalineado/Desensamblado,0.00%,0
-Perilla/Ensamble Perilla,0.00%,Desgastado/Barrido/Cristalizado,0.00%,0
-Perilla/Ensamble Perilla,0.00%,Manchas/Decolorado,0.00%,0
-Perilla/Ensamble Perilla,0.00%,Partes Faltantes/Incorrectas/Añadidas,0.00%,0
-Perilla/Ensamble Perilla,0.00%,Pegado/Congelado/Atrancado,0.00%,0
-Perilla/Ensamble Perilla,0.00%,Quebrado/Trozado/Arrancado,0.00%,0
-Perilla/Ensamble Perilla,0.00%,Quemado,0.00%,0
-Perilla/Ensamble Perilla,0.00%,Recubrimiento Defectuoso/Mal Esmaltado,0.00%,0
-Perilla/Ensamble Perilla,0.00%,Suelto/Desprendido/Flojo,0.00%,0
-Placa Modelo/Serie,0.00%,Partes Faltantes/Incorrectas/Añadidas,0.00%,0
-Placa Modelo/Serie,0.00%,Quebrado/Trozado/Arrancado,0.00%,0
-Poleas,0.03%,Aceitado/Lubricado,0.00%,0
-Poleas,0.03%,Deformado/Torcido,0.00%,0
-Poleas,0.03%,Desalineado/Desensamblado,0.00%,0
-Poleas,0.03%,Desgastado/Barrido/Cristalizado,0.00%,0
-Poleas,0.03%,Objeto Extraño Removido,0.00%,0
-Poleas,0.03%,Pegado/Congelado/Atrancado,0.00%,0
-Poleas,0.03%,Quebrado/Trozado/Arrancado,0.00%,0
-Poleas,0.03%,Ruido/Nivel de Sonido Excesivo,0.00%,0
-Poleas,0.03%,Suelto/Desprendido/Flojo,0.00%,0
-Poleas,0.03%,Tornillos/Pijas Flojos/Sueltos/Faltantes/Barridos,0.03%,1
-Problemas con Detergente/Limpiador,0.00%,Demasiado Detergente/Suavisante/Jabon,0.00%,0
-Problemas con Detergente/Limpiador,0.00%,Suavizante/Agente de Enjuague Inadecuado,0.00%,0
-Producto Obsoleto,0.00%,Parte no Disponible,0.00%,0
-Programador/Motor Programador/Reloj de Deshielo,0.00%,Quemado,0.00%,0
-PROTECTOR DE MOTOR,0.00%,Suelto/Desprendido/Flojo,0.00%,0
-Puerta/Tapa,0.03%,Aislante/Masilla Faltante/Rota/Agotada,0.00%,0
-Puerta/Tapa,0.03%,Arandela/GUASA/RONDANA Añadida,0.00%,0
-Puerta/Tapa,0.03%,Deformado/Torcido,0.00%,0
-Puerta/Tapa,0.03%,Desalineado/Desensamblado,0.03%,1
-Puerta/Tapa,0.03%,Desgastado/Barrido/Cristalizado,0.00%,0
-Puerta/Tapa,0.03%,Manchas/Decolorado,0.00%,0
-Puerta/Tapa,0.03%,Oxidado/Corroído,0.00%,0
-Puerta/Tapa,0.03%,Pegado/Congelado/Atrancado,0.00%,0
-Puerta/Tapa,0.03%,Quebrado/Trozado/Arrancado,0.00%,0
-Puerta/Tapa,0.03%,Recubrimiento Defectuoso/Mal Esmaltado,0.00%,0
-Puerta/Tapa,0.03%,Ruido/Nivel de Sonido Excesivo,0.00%,0
-Puerta/Tapa,0.03%,Suelto/Desprendido/Flojo,0.00%,0
-Puerta/Tapa,0.03%,Tornillos/Pijas Flojos/Sueltos/Faltantes/Barridos,0.00%,0
-Rodillos/Patas Niveladoras,0.03%,Aceitado/Lubricado,0.00%,0
-Rodillos/Patas Niveladoras,0.03%,Deformado/Torcido,0.00%,0
-Rodillos/Patas Niveladoras,0.03%,Desalineado/Desensamblado,0.00%,0
-Rodillos/Patas Niveladoras,0.03%,Desgastado/Barrido/Cristalizado,0.00%,0
-Rodillos/Patas Niveladoras,0.03%,No Nivelado,0.00%,0
-Rodillos/Patas Niveladoras,0.03%,Partes Faltantes/Incorrectas/Añadidas,0.03%,1
-Rodillos/Patas Niveladoras,0.03%,Quebrado/Trozado/Arrancado,0.00%,0
-Rodillos/Patas Niveladoras,0.03%,Ruido/Nivel de Sonido Excesivo,0.00%,0
-Rodillos/Patas Niveladoras,0.03%,Suelto/Desprendido/Flojo,0.00%,0
-Rodillos/Patas Niveladoras,0.03%,Tornillos/Pijas Flojos/Sueltos/Faltantes/Barridos,0.00%,0
-Sello / Empaques Generales (Fuelle),0.00%,Deformado/Torcido,0.00%,0
-Sello / Empaques Generales (Fuelle),0.00%,Desalineado/Desensamblado,0.00%,0
-Sello / Empaques Generales (Fuelle),0.00%,Desgastado/Barrido/Cristalizado,0.00%,0
-Sello / Empaques Generales (Fuelle),0.00%,Fugas/Se Verificaron Fugas,0.00%,0
-Sello / Empaques Generales (Fuelle),0.00%,Partes Faltantes/Incorrectas/Añadidas,0.00%,0
-Sello / Empaques Generales (Fuelle),0.00%,Pegado/Congelado/Atrancado,0.00%,0
-Sello / Empaques Generales (Fuelle),0.00%,Quebrado/Trozado/Arrancado,0.00%,0
-Sello / Empaques Generales (Fuelle),0.00%,Ruido/Nivel de Sonido Excesivo,0.00%,0
-Sello / Empaques Generales (Fuelle),0.00%,Suelto/Desprendido/Flojo,0.00%,0
-Sensor de desbalance,0.00%,Abierto/Alambrado Abierto,0.00%,0
-Sensor de desbalance,0.00%,Cable Suelto/Roto/Cruzado,0.00%,0
-Sensor de desbalance,0.00%,Desalineado/Desensamblado,0.00%,0
-Sensor de desbalance,0.00%,Desgastado/Barrido/Cristalizado,0.00%,0
-Sensor de desbalance,0.00%,En Corto/Aterrizado,0.00%,0
-Sensor de desbalance,0.00%,Pegado/Congelado/Atrancado,0.00%,0
-Sensor de desbalance,0.00%,Quebrado/Trozado/Arrancado,0.00%,0
-Sensor de desbalance,0.00%,Quemado,0.00%,0
-Sistema de Suspensión/Varilla,0.42%,Abierto/Alambrado Abierto,0.00%,0
-Sistema de Suspensión/Varilla,0.42%,Deformado/Torcido,0.10%,1
-Sistema de Suspensión/Varilla,0.42%,Desalineado/Desensamblado,0.00%,0
-Sistema de Suspensión/Varilla,0.42%,Desgastado/Barrido/Cristalizado,0.00%,0
-Sistema de Suspensión/Varilla,0.42%,Oxidado/Corroído,0.00%,0
-Sistema de Suspensión/Varilla,0.42%,Pegado/Congelado/Atrancado,0.00%,0
-Sistema de Suspensión/Varilla,0.42%,Quebrado/Trozado/Arrancado,0.21%,2
-Sistema de Suspensión/Varilla,0.42%,Ruido/Nivel de Sonido Excesivo,0.00%,0
-Sistema de Suspensión/Varilla,0.42%,Suelto/Desprendido/Flojo,0.10%,1
-Soporte Tina,0.00%,Quebrado/Trozado/Arrancado,0.00%,0
-Sujetador Canasta/TuercaSpanner (Block/Nut Basket Drive),0.03%,Desalineado/Desensamblado,0.00%,0
-Sujetador Canasta/TuercaSpanner (Block/Nut Basket Drive),0.03%,Desgastado/Barrido/Cristalizado,0.00%,0
-Sujetador Canasta/TuercaSpanner (Block/Nut Basket Drive),0.03%,Oxidado/Corroído,0.00%,0
-Sujetador Canasta/TuercaSpanner (Block/Nut Basket Drive),0.03%,Pegado/Congelado/Atrancado,0.00%,0
-Sujetador Canasta/TuercaSpanner (Block/Nut Basket Drive),0.03%,Quebrado/Trozado/Arrancado,0.03%,1
-Sujetador Canasta/TuercaSpanner (Block/Nut Basket Drive),0.03%,Ruido/Nivel de Sonido Excesivo,0.00%,0
-Sujetador Canasta/TuercaSpanner (Block/Nut Basket Drive),0.03%,Suelto/Desprendido/Flojo,0.00%,0
-Tapas / Cubiertas Traseras (Backguard),0.00%,Desalineado/Desensamblado,0.00%,0
-Tapas / Cubiertas Traseras (Backguard),0.00%,Oxidado/Corroído,0.00%,0
-Tapas / Cubiertas Traseras (Backguard),0.00%,Quebrado/Trozado/Arrancado,0.00%,0
-Tapas / Cubiertas Traseras (Backguard),0.00%,Recubrimiento Defectuoso/Mal Esmaltado,0.00%,0
-Tapas / Cubiertas Traseras (Backguard),0.00%,Suelto/Desprendido/Flojo,0.00%,0
-Tapas / Cubiertas Traseras (Backguard),0.00%,Tornillos/Pijas Flojos/Sueltos/Faltantes/Barridos,0.00%,0
-Tina,0.10%,Deformado/Torcido,0.00%,0
-Tina,0.10%,Desalineado/Desensamblado,0.05%,1
-Tina,0.10%,Desgastado/Barrido/Cristalizado,0.00%,0
-Tina,0.10%,Fugas/Se Verificaron Fugas,0.00%,0
-Tina,0.10%,Objeto Extraño Removido,0.00%,0
-Tina,0.10%,Oxidado/Corroído,0.00%,0
-Tina,0.10%,Quebrado/Trozado/Arrancado,0.05%,1
-Tina,0.10%,Recubrimiento Defectuoso/Mal Esmaltado,0.00%,0
-Tina,0.10%,Ruido/Nivel de Sonido Excesivo,0.00%,0
-Tina,0.10%,Suelto/Desprendido/Flojo,0.00%,0
-Valvula de drenado (ALD),0.00%,Cable Suelto/Roto/Cruzado,0.00%,0
-Valvula de drenado (ALD),0.00%,Desalineado/Desensamblado,0.00%,0
-Valvula de drenado (ALD),0.00%,Fugas/Se Verificaron Fugas,0.00%,0
-Valvula de drenado (ALD),0.00%,Pegado/Congelado/Atrancado,0.00%,0
-Valvula de drenado (ALD),0.00%,Quebrado/Trozado/Arrancado,0.00%,0
-Valvula de drenado (ALD),0.00%,Suelto/Desprendido/Flojo,0.00%,0
-Válvula Mezcladora/de Entrada/Electroválvula,0.10%,Abierto/Alambrado Abierto,0.05%,1
-Válvula Mezcladora/de Entrada/Electroválvula,0.10%,Cable Suelto/Roto/Cruzado,0.00%,0
-Válvula Mezcladora/de Entrada/Electroválvula,0.10%,Desalineado/Desensamblado,0.00%,0
-Válvula Mezcladora/de Entrada/Electroválvula,0.10%,Empaque/Sello Defectuoso/Faltante,0.00%,0
-Válvula Mezcladora/de Entrada/Electroválvula,0.10%,En Corto/Aterrizado,0.00%,0
-Válvula Mezcladora/de Entrada/Electroválvula,0.10%,Fugas/Se Verificaron Fugas,0.00%,0
-Válvula Mezcladora/de Entrada/Electroválvula,0.10%,Pegado/Congelado/Atrancado,0.00%,0
-Válvula Mezcladora/de Entrada/Electroválvula,0.10%,Quebrado/Trozado/Arrancado,0.00%,0
-Válvula Mezcladora/de Entrada/Electroválvula,0.10%,Quemado,0.05%,1
-Válvula Mezcladora/de Entrada/Electroválvula,0.10%,Ruido/Nivel de Sonido Excesivo,0.00%,0
-Válvula Mezcladora/de Entrada/Electroválvula,0.10%,Tapado/Bloqueado/Restringido/Sucio,0.00%,0
+﻿Componente,Prob_Comp,Condicion,Prob_Cond,SIR
+Accesorios,0.00,Abierto/Alambrado Abierto,0.00,0.00
+Accesorios,0.00,Deformado/Torcido,0.00,0.00
+Accesorios,0.00,Desalineado/Desensamblado,0.00,0.00
+Accesorios,0.00,Desgastado/Barrido/Cristalizado,0.00,0.00
+Accesorios,0.00,En Corto/Aterrizado,0.00,0.00
+Accesorios,0.00,Fugas/Se Verificaron Fugas,0.00,0.00
+Accesorios,0.00,Partes Faltantes/Incorrectas/Añadidas,0.00,0.00
+Accesorios,0.00,Pegado/Congelado/Atrancado,0.00,0.00
+Accesorios,0.00,Quebrado/Trozado/Arrancado,0.00,0.00
+Accesorios,0.00,Suelto/Desprendido/Flojo,0.00,0.00
+Actuador de Cambio/Cambiador/Optico de Movimiento,0.00,Abierto/Alambrado Abierto,0.00,0.00
+Actuador de Cambio/Cambiador/Optico de Movimiento,0.00,Aceitado/Lubricado,0.00,0.00
+Actuador de Cambio/Cambiador/Optico de Movimiento,0.00,Cable Suelto/Roto/Cruzado,0.00,0.00
+Actuador de Cambio/Cambiador/Optico de Movimiento,0.00,Desalineado/Desensamblado,0.00,0.00
+Actuador de Cambio/Cambiador/Optico de Movimiento,0.00,Desgastado/Barrido/Cristalizado,0.00,0.00
+Actuador de Cambio/Cambiador/Optico de Movimiento,0.00,En Corto/Aterrizado,0.00,2.00
+Actuador de Cambio/Cambiador/Optico de Movimiento,0.00,Objeto Extraño Removido,0.00,0.00
+Actuador de Cambio/Cambiador/Optico de Movimiento,0.00,Pegado/Congelado/Atrancado,0.00,0.00
+Actuador de Cambio/Cambiador/Optico de Movimiento,0.00,Quebrado/Trozado/Arrancado,0.00,0.00
+Actuador de Cambio/Cambiador/Optico de Movimiento,0.00,Quemado,0.00,0.00
+Actuador de Cambio/Cambiador/Optico de Movimiento,0.00,Ruido/Nivel de Sonido Excesivo,0.00,0.00
+Actuador de Cambio/Cambiador/Optico de Movimiento,0.00,Suelto/Desprendido/Flojo,0.00,0.00
+Actuador de Cambio/Cambiador/Optico de Movimiento,0.00,Tapado/Bloqueado/Restringido/Sucio,0.00,0.00
+Agitador/Propela,0.00,Áspero/Cortante,0.00,0.00
+Agitador/Propela,0.00,Deformado/Torcido,0.00,0.00
+Agitador/Propela,0.00,Desalineado/Desensamblado,0.00,0.00
+Agitador/Propela,0.00,Desgastado/Barrido/Cristalizado,0.00,0.00
+Agitador/Propela,0.00,Objeto Extraño Removido,0.00,0.00
+Agitador/Propela,0.00,Pegado/Congelado/Atrancado,0.00,0.00
+Agitador/Propela,0.00,Quebrado/Trozado/Arrancado,0.00,1.00
+Agitador/Propela,0.00,Suelto/Desprendido/Flojo,0.00,1.00
+Agitador/Propela,0.00,Tornillos/Pijas Flojos/Sueltos/Faltantes/Barridos,0.00,0.00
+Amortiguador,0.00,Deformado/Torcido,0.00,0.00
+Amortiguador,0.00,Desalineado/Desensamblado,0.00,1.00
+Amortiguador,0.00,Quebrado/Trozado/Arrancado,0.00,0.00
+Amortiguador,0.00,Suelto/Desprendido/Flojo,0.00,0.00
+Anillo de Balance,0.00,Deformado/Torcido,0.00,0.00
+Anillo de Balance,0.00,Desalineado/Desensamblado,0.00,0.00
+Anillo de Balance,0.00,Quebrado/Trozado/Arrancado,0.00,0.00
+Anillo Tina/Protector de Anillo Tina,0.00,Aceitado/Lubricado,0.00,0.00
+Anillo Tina/Protector de Anillo Tina,0.00,Deformado/Torcido,0.00,0.00
+Anillo Tina/Protector de Anillo Tina,0.00,Desalineado/Desensamblado,0.00,0.00
+Anillo Tina/Protector de Anillo Tina,0.00,Desgastado/Barrido/Cristalizado,0.00,0.00
+Anillo Tina/Protector de Anillo Tina,0.00,Quebrado/Trozado/Arrancado,0.00,0.00
+Arnés,0.01,Abierto/Alambrado Abierto,0.00,0.00
+Arnés,0.01,Cable Suelto/Roto/Cruzado,0.01,6.00
+Arnés,0.01,Desalineado/Desensamblado,0.00,0.00
+Arnés,0.01,En Corto/Aterrizado,0.00,1.00
+Arnés,0.01,Quebrado/Trozado/Arrancado,0.00,0.00
+Arnés,0.01,Quemado,0.00,0.00
+Arnés,0.01,Suelto/Desprendido/Flojo,0.00,0.00
+Bandas,0.00,Deformado/Torcido,0.00,0.00
+Bandas,0.00,Desalineado/Desensamblado,0.00,2.00
+Bandas,0.00,Desgastado/Barrido/Cristalizado,0.00,0.00
+Bandas,0.00,Objeto Extraño Removido,0.00,0.00
+Bandas,0.00,Pegado/Congelado/Atrancado,0.00,0.00
+Bandas,0.00,Quebrado/Trozado/Arrancado,0.00,0.00
+Bandas,0.00,Ruido/Nivel de Sonido Excesivo,0.00,0.00
+Bandas,0.00,Suelto/Desprendido/Flojo,0.00,0.00
+Bisagra,0.00,Aceitado/Lubricado,0.00,0.00
+Bisagra,0.00,Deformado/Torcido,0.00,0.00
+Bisagra,0.00,Desalineado/Desensamblado,0.00,0.00
+Bisagra,0.00,Desgastado/Barrido/Cristalizado,0.00,0.00
+Bisagra,0.00,Oxidado/Corroído,0.00,0.00
+Bisagra,0.00,Partes Faltantes/Incorrectas/Añadidas,0.00,0.00
+Bisagra,0.00,Quebrado/Trozado/Arrancado,0.00,0.00
+Bisagra,0.00,Ruido/Nivel de Sonido Excesivo,0.00,0.00
+Bisagra,0.00,Tornillos/Pijas Flojos/Sueltos/Faltantes/Barridos,0.00,0.00
+Bomba de Desagüe,0.01,Abierto/Alambrado Abierto,0.00,2.00
+Bomba de Desagüe,0.01,Cable Suelto/Roto/Cruzado,0.00,0.00
+Bomba de Desagüe,0.01,Desalineado/Desensamblado,0.00,0.00
+Bomba de Desagüe,0.01,Desgastado/Barrido/Cristalizado,0.00,0.00
+Bomba de Desagüe,0.01,Empaque/Sello Defectuoso/Faltante,0.00,0.00
+Bomba de Desagüe,0.01,En Corto/Aterrizado,0.00,0.00
+Bomba de Desagüe,0.01,Fugas/Se Verificaron Fugas,0.00,0.00
+Bomba de Desagüe,0.01,Objeto Extraño Removido,0.00,0.00
+Bomba de Desagüe,0.01,Quebrado/Trozado/Arrancado,0.00,0.00
+Bomba de Desagüe,0.01,Quemado,0.00,1.00
+Bomba de Desagüe,0.01,Ruido/Nivel de Sonido Excesivo,0.00,2.00
+Bomba de Desagüe,0.01,Tapado/Bloqueado/Restringido/Sucio,0.00,0.00
+Cable Tomacorriente,0.00,Abierto/Alambrado Abierto,0.00,0.00
+Cable Tomacorriente,0.00,Cable Suelto/Roto/Cruzado,0.00,0.00
+Cable Tomacorriente,0.00,Desalineado/Desensamblado,0.00,0.00
+Cable Tomacorriente,0.00,En Corto/Aterrizado,0.00,0.00
+Cable Tomacorriente,0.00,Invertido,0.00,0.00
+Cable Tomacorriente,0.00,Partes Faltantes/Incorrectas/Añadidas,0.00,0.00
+Cable Tomacorriente,0.00,Quebrado/Trozado/Arrancado,0.00,0.00
+Cable Tomacorriente,0.00,Quemado,0.00,0.00
+Cable Tomacorriente,0.00,Sobrecargado,0.00,0.00
+Cable Tomacorriente,0.00,Suelto/Desprendido/Flojo,0.00,0.00
+Canasta/Tambor/Bulkhead,0.00,Áspero/Cortante,0.00,0.00
+Canasta/Tambor/Bulkhead,0.00,Deformado/Torcido,0.00,0.00
+Canasta/Tambor/Bulkhead,0.00,Desalineado/Desensamblado,0.00,0.00
+Canasta/Tambor/Bulkhead,0.00,Desgastado/Barrido/Cristalizado,0.00,0.00
+Canasta/Tambor/Bulkhead,0.00,Objeto Extraño Removido,0.00,0.00
+Canasta/Tambor/Bulkhead,0.00,Oxidado/Corroído,0.00,0.00
+Canasta/Tambor/Bulkhead,0.00,Pegado/Congelado/Atrancado,0.00,0.00
+Canasta/Tambor/Bulkhead,0.00,Quebrado/Trozado/Arrancado,0.00,0.00
+Canasta/Tambor/Bulkhead,0.00,Recubrimiento Defectuoso/Mal Esmaltado,0.00,0.00
+Canasta/Tambor/Bulkhead,0.00,Suelto/Desprendido/Flojo,0.00,0.00
+Capacitor/Kit de Arranque,0.00,Abierto/Alambrado Abierto,0.00,0.00
+Capacitor/Kit de Arranque,0.00,Cable Suelto/Roto/Cruzado,0.00,0.00
+Capacitor/Kit de Arranque,0.00,Desalineado/Desensamblado,0.00,0.00
+Capacitor/Kit de Arranque,0.00,Desgastado/Barrido/Cristalizado,0.00,0.00
+Capacitor/Kit de Arranque,0.00,En Corto/Aterrizado,0.00,0.00
+Capacitor/Kit de Arranque,0.00,Pegado/Congelado/Atrancado,0.00,0.00
+Capacitor/Kit de Arranque,0.00,Quebrado/Trozado/Arrancado,0.00,0.00
+Capacitor/Kit de Arranque,0.00,Quemado,0.00,0.00
+Capacitor/Kit de Arranque,0.00,Ruido/Nivel de Sonido Excesivo,0.00,0.00
+Capacitor/Kit de Arranque,0.00,Suelto/Desprendido/Flojo,0.00,0.00
+Carga Inadecuada,0.00,Carga Inapropiada,0.00,0.00
+Cliente Rechazó Reparación (sin Reparación “w”),0.00,Cambio de Producto,0.00,0.00
+Cliente Rechazó Reparación (sin Reparación “w”),0.00,Costo de Reparación no Rentable,0.00,0.00
+"CojInetes de Fricción (Snubber,PAD)",0.00,Desgastado/Barrido/Cristalizado,0.00,0.00
+"CojInetes de Fricción (Snubber,PAD)",0.00,Quebrado/Trozado/Arrancado,0.00,0.00
+Cople (Motor-Transmisión),0.00,Desgastado/Barrido/Cristalizado,0.00,0.00
+Cople (Motor-Transmisión),0.00,Quebrado/Trozado/Arrancado,0.00,0.00
+Cople (Motor-Transmisión),0.00,Suelto/Desprendido/Flojo,0.00,0.00
+Deflector de Entrada de Agua,0.00,Deformado/Torcido,0.00,0.00
+Deflector de Entrada de Agua,0.00,Desalineado/Desensamblado,0.00,0.00
+Deflector de Entrada de Agua,0.00,Fugas/Se Verificaron Fugas,0.00,0.00
+Deflector de Entrada de Agua,0.00,Quebrado/Trozado/Arrancado,0.00,0.00
+Deflector de Entrada de Agua,0.00,tornillos/Pijas Flojos/Sueltos/Faltantes/Barridos,0.00,0.00
+Despachador de Cloro/Blanqueador,0.00,Quebrado/Trozado/Arrancado,0.00,0.00
+Despachador de Suavizante de Telas,0.00,Desalineado/Desensamblado,0.00,0.00
+Despachador de Suavizante de Telas,0.00,Partes Faltantes/Incorrectas/Añadidas,0.00,0.00
+Despachador de Suavizante de Telas,0.00,Pegado/Congelado/Atrancado,0.00,0.00
+Despachador de Suavizante de Telas,0.00,Quebrado/Trozado/Arrancado,0.00,0.00
+Despachador de Suavizante de Telas,0.00,Tapado/Bloqueado/Restringido/Sucio,0.00,0.00
+Embrague/Clutch,0.00,Abierto/Alambrado Abierto,0.00,0.00
+Embrague/Clutch,0.00,Deformado/Torcido,0.00,0.00
+Embrague/Clutch,0.00,Desalineado/Desensamblado,0.00,0.00
+Embrague/Clutch,0.00,Desgastado/Barrido/Cristalizado,0.00,1.00
+Embrague/Clutch,0.00,Pegado/Congelado/Atrancado,0.00,0.00
+Embrague/Clutch,0.00,Quebrado/Trozado/Arrancado,0.00,0.00
+Embrague/Clutch,0.00,Quemado,0.00,0.00
+Embrague/Clutch,0.00,Ruido/Nivel de Sonido Excesivo,0.00,0.00
+Embrague/Clutch,0.00,Suelto/Desprendido/Flojo,0.00,0.00
+Embrague/Clutch,0.00,Tornillos/Pijas Flojos/Sueltos/Faltantes/Barridos,0.00,0.00
+Ensamble Consola (Copete),0.00,Deformado/Torcido,0.00,0.00
+Ensamble Consola (Copete),0.00,Desalineado/Desensamblado,0.00,0.00
+Ensamble Consola (Copete),0.00,Manchas/Decolorado,0.00,0.00
+Ensamble Consola (Copete),0.00,Quebrado/Trozado/Arrancado,0.00,0.00
+Ensamble Consola (Copete),0.00,Quemado,0.00,0.00
+Ensamble Consola (Copete),0.00,Recubrimiento Defectuoso/Mal Esmaltado,0.00,0.00
+Ensamble Consola (Copete),0.00,Ruido/Nivel de Sonido Excesivo,0.00,0.00
+Ensamble Consola (Copete),0.00,Suelto/Desprendido/Flojo,0.00,0.00
+Ensamble Consola (Copete),0.00,Tornillos/Pijas Flojos/Sueltos/Faltantes/Barridos,0.00,0.00
+Ensamble Contenedor/Cajón,0.00,Deformado/Torcido,0.00,0.00
+Ensamble Contenedor/Cajón,0.00,Desalineado/Desensamblado,0.00,0.00
+Ensamble Contenedor/Cajón,0.00,Partes Faltantes/Incorrectas/Añadidas,0.00,0.00
+Ensamble Contenedor/Cajón,0.00,Pegado/Congelado/Atrancado,0.00,0.00
+Ensamble Contenedor/Cajón,0.00,Quebrado/Trozado/Arrancado,0.00,0.00
+Ensamble Contenedor/Cajón,0.00,Suelto/Desprendido/Flojo,0.00,0.00
+Ensamble de Cerradura,0.00,Deformado/Torcido,0.00,0.00
+Ensamble de Cerradura,0.00,Desalineado/Desensamblado,0.00,0.00
+Ensamble de Cerradura,0.00,Desgastado/Barrido/Cristalizado,0.00,0.00
+Ensamble de Cerradura,0.00,Oxidado/Corroído,0.00,0.00
+Ensamble de Cerradura,0.00,Pegado/Congelado/Atrancado,0.00,0.00
+Ensamble de Cerradura,0.00,Quebrado/Trozado/Arrancado,0.00,0.00
+Ensamble de Cerradura,0.00,Quemado,0.00,0.00
+Ensamble de Cerradura,0.00,Tornillos/Pijas Flojos/Sueltos/Faltantes/Barridos,0.00,0.00
+Ensamble Transmisión/Engrane/Engranaje(Leva),0.00,Aceitado/Lubricado,0.00,0.00
+Ensamble Transmisión/Engrane/Engranaje(Leva),0.00,Desalineado/Desensamblado,0.00,0.00
+Ensamble Transmisión/Engrane/Engranaje(Leva),0.00,Desgastado/Barrido/Cristalizado,0.00,0.00
+Ensamble Transmisión/Engrane/Engranaje(Leva),0.00,Empaque/Sello Defectuoso/Faltante,0.00,0.00
+Ensamble Transmisión/Engrane/Engranaje(Leva),0.00,En Corto/Aterrizado,0.00,0.00
+Ensamble Transmisión/Engrane/Engranaje(Leva),0.00,Objeto Extraño Removido,0.00,0.00
+Ensamble Transmisión/Engrane/Engranaje(Leva),0.00,Oxidado/Corroído,0.00,0.00
+Ensamble Transmisión/Engrane/Engranaje(Leva),0.00,Pegado/Congelado/Atrancado,0.00,0.00
+Ensamble Transmisión/Engrane/Engranaje(Leva),0.00,Quebrado/Trozado/Arrancado,0.00,1.00
+Ensamble Transmisión/Engrane/Engranaje(Leva),0.00,Quemado,0.00,0.00
+Ensamble Transmisión/Engrane/Engranaje(Leva),0.00,Ruido/Nivel de Sonido Excesivo,0.00,1.00
+Ensamble Transmisión/Engrane/Engranaje(Leva),0.00,Tornillos/Pijas Flojos/Sueltos/Faltantes/Barridos,0.00,0.00
+Etiquetas / Placa marca,0.00,Desalineado/Desensamblado,0.00,0.00
+Etiquetas / Placa marca,0.00,Partes Faltantes/Incorrectas/Añadidas,0.00,0.00
+Etiquetas / Placa marca,0.00,Quebrado/Trozado/Arrancado,0.00,0.00
+Explicación de Ciclo Largo/ Demorado / Tiempo de Ejecución,0.00,Intermitente/Errático,0.00,0.00
+Freno/FrenoImpulsor (BlockPoste/TubSpin/BlockDrive),0.00,Desalineado/Desensamblado,0.00,0.00
+Funcionamiento No Satisfactorio,0.00,Instrucción,0.00,0.00
+Funcionamiento No Satisfactorio,0.00,Reembolso,0.00,0.00
+Gabinete,0.00,Deformado/Torcido,0.00,0.00
+Gabinete,0.00,Desalineado/Desensamblado,0.00,0.00
+Gabinete,0.00,Manchas/Decolorado,0.00,0.00
+Gabinete,0.00,Objeto Extraño Removido,0.00,0.00
+Gabinete,0.00,Oxidado/Corroído,0.00,0.00
+Gabinete,0.00,Quebrado/Trozado/Arrancado,0.00,0.00
+Gabinete,0.00,Recubrimiento Defectuoso/Mal Esmaltado,0.00,0.00
+Gabinete,0.00,Tornillos/Pijas Flojos/Sueltos/Faltantes/Barridos,0.00,0.00
+Instrucción General,0.00,Característica no Incluída,0.00,0.00
+Instrucción General,0.00,Cliente llena manualmente,0.00,0.00
+Instrucción General,0.00,Explicación de Auto-Limpieza/Limpieza Continua/ Controles de Horno,0.00,0.00
+Instrucción General,0.00,Explicación de Ciclo de Exprimido,0.00,0.00
+Instrucción General,0.00,Explicación de Ciclo de Operación,0.00,0.00
+Instrucción General,0.00,Explicación del ciclo de Enjuagado / Enjuague por Rocio,0.00,0.00
+Instrucción General,0.00,Instalado por el Cliente,0.00,0.00
+Instrucción General,0.00,Lavado Insatisfactorio,0.00,0.00
+Instrucción General,0.00,Mal Olor,0.00,0.00
+Instrucción General,0.00,No se Encontró Problema,0.00,0.00
+Instrucción General,0.00,Rutina de seguridad del equipo,0.00,0.00
+Instrucción General,0.00,Secado Inadecuado,0.00,0.00
+Instrucción General,0.00,Subllenado,0.00,0.00
+Instrucción General,0.00,Sudando/Humedeciendo,0.00,0.00
+Instrucción General,0.00,Uso Comercial/Inapropiado,0.00,0.00
+Instrucción General,0.00,Uso de Despachado r/ Uso de Control / Luz Indicadora,0.00,0.00
+Instrucción General,0.00,Uso de Despachador/ Uso de Control / Luz Indicadora,0.00,0.00
+Interfaz de usuario,0.00,Abierto/Alambrado Abierto,0.00,0.00
+Interfaz de usuario,0.00,Cable Suelto/Roto/Cruzado,0.00,0.00
+Interfaz de usuario,0.00,Desgastado/Barrido/Cristalizado,0.00,0.00
+Interfaz de usuario,0.00,En Corto/Aterrizado,0.00,0.00
+Interfaz de usuario,0.00,Pegado/Congelado/Atrancado,0.00,0.00
+Interfaz de usuario,0.00,Quemado,0.00,0.00
+Interruptor de Botón/Arranque/Control/Selector,0.00,Abierto/Alambrado Abierto,0.00,0.00
+Interruptor de Botón/Arranque/Control/Selector,0.00,Cable Suelto/Roto/Cruzado,0.00,0.00
+Interruptor de Botón/Arranque/Control/Selector,0.00,Desalineado/Desensamblado,0.00,0.00
+Interruptor de Botón/Arranque/Control/Selector,0.00,En Corto/Aterrizado,0.00,0.00
+Interruptor de Botón/Arranque/Control/Selector,0.00,Pegado/Congelado/Atrancado,0.00,0.00
+Interruptor de Botón/Arranque/Control/Selector,0.00,Quebrado/Trozado/Arrancado,0.00,0.00
+Interruptor de Botón/Arranque/Control/Selector,0.00,Quemado,0.00,0.00
+Interruptor de Tapa/Luz/Puerta,0.01,Abierto/Alambrado Abierto,0.00,1.00
+Interruptor de Tapa/Luz/Puerta,0.01,Cable Suelto/Roto/Cruzado,0.00,0.00
+Interruptor de Tapa/Luz/Puerta,0.01,Desalineado/Desensamblado,0.00,0.00
+Interruptor de Tapa/Luz/Puerta,0.01,Desgastado/Barrido/Cristalizado,0.00,0.00
+Interruptor de Tapa/Luz/Puerta,0.01,En Corto/Aterrizado,0.00,2.00
+Interruptor de Tapa/Luz/Puerta,0.01,Pegado/Congelado/Atrancado,0.00,0.00
+Interruptor de Tapa/Luz/Puerta,0.01,Quebrado/Trozado/Arrancado,0.00,3.00
+Interruptor de Tapa/Luz/Puerta,0.01,Quemado,0.00,0.00
+Interruptor Presión/NivelAgua/Flotador/Presotato,0.00,Desalineado/Desensamblado,0.00,1.00
+Interruptor sensor de carga,0.00,Pegado/Congelado/Atrancado,0.00,0.00
+Malla/Arandela de Malla/Malla de Válvula,0.00,Tapado/Bloqueado/Restringido/Sucio,0.00,0.00
+Manguera de Drenado Interna ( Manguera 'J' negra),0.00,Desalineado/Desensamblado,0.00,0.00
+Manguera de Drenado Interna ( Manguera 'J' negra),0.00,Desgastado/Barrido/Cristalizado,0.00,0.00
+Manguera de Drenado Interna ( Manguera 'J' negra),0.00,Empaque/Sello Defectuoso/Faltante,0.00,0.00
+Manguera de Drenado Interna ( Manguera 'J' negra),0.00,Manguera/Tubo Doblado,0.00,0.00
+Manguera de Drenado Interna ( Manguera 'J' negra),0.00,Objeto Extraño Removido,0.00,0.00
+Manguera de Drenado Interna ( Manguera 'J' negra),0.00,Partes Faltantes/Incorrectas/Añadidas,0.00,0.00
+Manguera de Drenado Interna ( Manguera 'J' negra),0.00,Quebrado/Trozado/Arrancado,0.00,0.00
+Manguera de Drenado Interna ( Manguera 'J' negra),0.00,Suelto/Desprendido/Flojo,0.00,0.00
+Manguera de Drenado Interna ( Manguera 'J' negra),0.00,Tapado/Bloqueado/Restringido/Sucio,0.00,0.00
+Manguera de Entrada,0.00,Desalineado/Desensamblado,0.00,0.00
+Manguera de Entrada,0.00,Empaque/Sello Defectuoso/Faltante,0.00,0.00
+Manguera de Entrada,0.00,Fugas/Se Verificaron Fugas,0.00,0.00
+Manguera de Entrada,0.00,Manguera/Tubo Doblado,0.00,0.00
+Manguera de Entrada,0.00,Partes Faltantes/Incorrectas/Añadidas,0.00,0.00
+Manguera de Entrada,0.00,Quebrado/Trozado/Arrancado,0.00,0.00
+Manguera de Entrada,0.00,Suelto/Desprendido/Flojo,0.00,0.00
+Mangueras Internas Misceláneas,0.00,Abrazadera/Clip Suelto/Mal Colocado,0.00,0.00
+Mangueras Internas Misceláneas,0.00,Desalineado/Desensamblado,0.00,0.00
+Mangueras Internas Misceláneas,0.00,Fugas/Se Verificaron Fugas,0.00,0.00
+Mangueras Internas Misceláneas,0.00,Manguera/Tubo Doblado,0.00,0.00
+Mangueras Internas Misceláneas,0.00,Partes Faltantes/Incorrectas/Añadidas,0.00,0.00
+Mangueras Internas Misceláneas,0.00,Quebrado/Trozado/Arrancado,0.00,0.00
+Mangueras Internas Misceláneas,0.00,Suelto/Desprendido/Flojo,0.00,0.00
+MicroPC/Tarjeta CPU/Modulo Potencia,0.09,Abierto/Alambrado Abierto,0.02,4.00
+MicroPC/Tarjeta CPU/Modulo Potencia,0.09,Cable Suelto/Roto/Cruzado,0.00,0.00
+MicroPC/Tarjeta CPU/Modulo Potencia,0.09,Desalineado/Desensamblado,0.00,0.00
+MicroPC/Tarjeta CPU/Modulo Potencia,0.09,Descalibrado / Fuera de rango,0.00,1.00
+MicroPC/Tarjeta CPU/Modulo Potencia,0.09,En Corto/Aterrizado,0.05,10.00
+MicroPC/Tarjeta CPU/Modulo Potencia,0.09,Pegado/Congelado/Atrancado,0.00,0.00
+MicroPC/Tarjeta CPU/Modulo Potencia,0.09,Quebrado/Trozado/Arrancado,0.00,1.00
+MicroPC/Tarjeta CPU/Modulo Potencia,0.09,Quemado,0.00,0.00
+MicroPC/Tarjeta CPU/Modulo Potencia,0.09,Reseteo por bloqueo eléctrico,0.01,3.00
+MicroPC/Tarjeta CPU/Modulo Potencia,0.09,Ruido/Nivel de Sonido Excesivo,0.00,0.00
+MicroPC/Tarjeta CPU/Modulo Potencia,0.09,Tapado/Bloqueado/Restringido/Sucio,0.00,0.00
+MicroPC/Tarjeta CPU/Modulo Potencia,0.09,Variación de voltaje/Apagón de luz,0.00,0.00
+Moldura Plástico Interior,0.00,Deformado/Torcido,0.00,0.00
+Moldura Plástico Interior,0.00,Desalineado/Desensamblado,0.00,0.00
+Moldura Plástico Interior,0.00,Moldura Añadidad/Faltante,0.00,0.00
+Moldura Plástico Interior,0.00,Objeto Extraño Removido,0.00,0.00
+Moldura Plástico Interior,0.00,Partes Faltantes/Incorrectas/Añadidas,0.00,0.00
+Moldura Plástico Interior,0.00,Quebrado/Trozado/Arrancado,0.00,0.00
+Moldura Plástico Interior,0.00,Ruido/Nivel de Sonido Excesivo,0.00,0.00
+Moldura Plástico Interior,0.00,Suelto/Desprendido/Flojo,0.00,0.00
+Moldura Plástico Interior,0.00,Tornillos/Pijas Flojos/Sueltos/Faltantes/Barridos,0.00,0.00
+Motor de Marcha Principal/Motor Principal,0.00,Abierto/Alambrado Abierto,0.00,0.00
+Motor de Marcha Principal/Motor Principal,0.00,Alto Voltaje,0.00,0.00
+Motor de Marcha Principal/Motor Principal,0.00,Cable Suelto/Roto/Cruzado,0.00,1.00
+Motor de Marcha Principal/Motor Principal,0.00,Desalineado/Desensamblado,0.00,0.00
+Motor de Marcha Principal/Motor Principal,0.00,Desgastado/Barrido/Cristalizado,0.00,0.00
+Motor de Marcha Principal/Motor Principal,0.00,En Corto/Aterrizado,0.00,0.00
+Motor de Marcha Principal/Motor Principal,0.00,Objeto Extraño Removido,0.00,0.00
+Motor de Marcha Principal/Motor Principal,0.00,Pegado/Congelado/Atrancado,0.00,0.00
+Motor de Marcha Principal/Motor Principal,0.00,Quebrado/Trozado/Arrancado,0.00,0.00
+Motor de Marcha Principal/Motor Principal,0.00,Quemado,0.00,0.00
+Motor de Marcha Principal/Motor Principal,0.00,Ruido/Nivel de Sonido Excesivo,0.00,0.00
+Motor de Marcha Principal/Motor Principal,0.00,Sobrecargado,0.00,0.00
+Motor de Marcha Principal/Motor Principal,0.00,Suelto/Desprendido/Flojo,0.00,0.00
+Motor de Marcha Principal/Motor Principal,0.00,Tornillos/Pijas Flojos/Sueltos/Faltantes/Barridos,0.00,0.00
+Otras Partes Eléctricas Misceláneas,0.00,Abierto/Alambrado Abierto,0.00,0.00
+Otras Partes Eléctricas Misceláneas,0.00,Alto Voltaje,0.00,0.00
+Otras Partes Eléctricas Misceláneas,0.00,Cable Suelto/Roto/Cruzado,0.00,0.00
+Otras Partes Eléctricas Misceláneas,0.00,Desalineado/Desensamblado,0.00,0.00
+Otras Partes Eléctricas Misceláneas,0.00,En Corto/Aterrizado,0.00,0.00
+Otras Partes Eléctricas Misceláneas,0.00,Suelto/Desprendido/Flojo,0.00,0.00
+Panel Frontal (Lavad),0.00,Desalineado/Desensamblado,0.00,1.00
+Panel Frontal (Lavad),0.00,Oxidado/Corroído,0.00,0.00
+Panel Frontal (Lavad),0.00,Quebrado/Trozado/Arrancado,0.00,0.00
+Perilla/Ensamble Perilla,0.00,Deformado/Torcido,0.00,0.00
+Perilla/Ensamble Perilla,0.00,Derretido,0.00,0.00
+Perilla/Ensamble Perilla,0.00,Desalineado/Desensamblado,0.00,0.00
+Perilla/Ensamble Perilla,0.00,Desgastado/Barrido/Cristalizado,0.00,0.00
+Perilla/Ensamble Perilla,0.00,Manchas/Decolorado,0.00,0.00
+Perilla/Ensamble Perilla,0.00,Partes Faltantes/Incorrectas/Añadidas,0.00,0.00
+Perilla/Ensamble Perilla,0.00,Pegado/Congelado/Atrancado,0.00,0.00
+Perilla/Ensamble Perilla,0.00,Quebrado/Trozado/Arrancado,0.00,0.00
+Perilla/Ensamble Perilla,0.00,Quemado,0.00,0.00
+Perilla/Ensamble Perilla,0.00,Recubrimiento Defectuoso/Mal Esmaltado,0.00,0.00
+Perilla/Ensamble Perilla,0.00,Suelto/Desprendido/Flojo,0.00,0.00
+Placa Modelo/Serie,0.00,Partes Faltantes/Incorrectas/Añadidas,0.00,0.00
+Placa Modelo/Serie,0.00,Quebrado/Trozado/Arrancado,0.00,0.00
+Poleas,0.00,Aceitado/Lubricado,0.00,0.00
+Poleas,0.00,Deformado/Torcido,0.00,0.00
+Poleas,0.00,Desalineado/Desensamblado,0.00,0.00
+Poleas,0.00,Desgastado/Barrido/Cristalizado,0.00,0.00
+Poleas,0.00,Objeto Extraño Removido,0.00,0.00
+Poleas,0.00,Pegado/Congelado/Atrancado,0.00,0.00
+Poleas,0.00,Quebrado/Trozado/Arrancado,0.00,0.00
+Poleas,0.00,Ruido/Nivel de Sonido Excesivo,0.00,0.00
+Poleas,0.00,Suelto/Desprendido/Flojo,0.00,0.00
+Poleas,0.00,Tornillos/Pijas Flojos/Sueltos/Faltantes/Barridos,0.00,1.00
+Problemas con Detergente/Limpiador,0.00,Demasiado Detergente/Suavisante/Jabon,0.00,0.00
+Problemas con Detergente/Limpiador,0.00,Suavizante/Agente de Enjuague Inadecuado,0.00,0.00
+Producto Obsoleto,0.00,Parte no Disponible,0.00,0.00
+Programador/Motor Programador/Reloj de Deshielo,0.00,Quemado,0.00,0.00
+PROTECTOR DE MOTOR,0.00,Suelto/Desprendido/Flojo,0.00,0.00
+Puerta/Tapa,0.00,Aislante/Masilla Faltante/Rota/Agotada,0.00,0.00
+Puerta/Tapa,0.00,Arandela/GUASA/RONDANA Añadida,0.00,0.00
+Puerta/Tapa,0.00,Deformado/Torcido,0.00,0.00
+Puerta/Tapa,0.00,Desalineado/Desensamblado,0.00,1.00
+Puerta/Tapa,0.00,Desgastado/Barrido/Cristalizado,0.00,0.00
+Puerta/Tapa,0.00,Manchas/Decolorado,0.00,0.00
+Puerta/Tapa,0.00,Oxidado/Corroído,0.00,0.00
+Puerta/Tapa,0.00,Pegado/Congelado/Atrancado,0.00,0.00
+Puerta/Tapa,0.00,Quebrado/Trozado/Arrancado,0.00,0.00
+Puerta/Tapa,0.00,Recubrimiento Defectuoso/Mal Esmaltado,0.00,0.00
+Puerta/Tapa,0.00,Ruido/Nivel de Sonido Excesivo,0.00,0.00
+Puerta/Tapa,0.00,Suelto/Desprendido/Flojo,0.00,0.00
+Puerta/Tapa,0.00,Tornillos/Pijas Flojos/Sueltos/Faltantes/Barridos,0.00,0.00
+Rodillos/Patas Niveladoras,0.00,Aceitado/Lubricado,0.00,0.00
+Rodillos/Patas Niveladoras,0.00,Deformado/Torcido,0.00,0.00
+Rodillos/Patas Niveladoras,0.00,Desalineado/Desensamblado,0.00,0.00
+Rodillos/Patas Niveladoras,0.00,Desgastado/Barrido/Cristalizado,0.00,0.00
+Rodillos/Patas Niveladoras,0.00,No Nivelado,0.00,0.00
+Rodillos/Patas Niveladoras,0.00,Partes Faltantes/Incorrectas/Añadidas,0.00,1.00
+Rodillos/Patas Niveladoras,0.00,Quebrado/Trozado/Arrancado,0.00,0.00
+Rodillos/Patas Niveladoras,0.00,Ruido/Nivel de Sonido Excesivo,0.00,0.00
+Rodillos/Patas Niveladoras,0.00,Suelto/Desprendido/Flojo,0.00,0.00
+Rodillos/Patas Niveladoras,0.00,Tornillos/Pijas Flojos/Sueltos/Faltantes/Barridos,0.00,0.00
+Sello / Empaques Generales (Fuelle),0.00,Deformado/Torcido,0.00,0.00
+Sello / Empaques Generales (Fuelle),0.00,Desalineado/Desensamblado,0.00,0.00
+Sello / Empaques Generales (Fuelle),0.00,Desgastado/Barrido/Cristalizado,0.00,0.00
+Sello / Empaques Generales (Fuelle),0.00,Fugas/Se Verificaron Fugas,0.00,0.00
+Sello / Empaques Generales (Fuelle),0.00,Partes Faltantes/Incorrectas/Añadidas,0.00,0.00
+Sello / Empaques Generales (Fuelle),0.00,Pegado/Congelado/Atrancado,0.00,0.00
+Sello / Empaques Generales (Fuelle),0.00,Quebrado/Trozado/Arrancado,0.00,0.00
+Sello / Empaques Generales (Fuelle),0.00,Ruido/Nivel de Sonido Excesivo,0.00,0.00
+Sello / Empaques Generales (Fuelle),0.00,Suelto/Desprendido/Flojo,0.00,0.00
+Sensor de desbalance,0.00,Abierto/Alambrado Abierto,0.00,0.00
+Sensor de desbalance,0.00,Cable Suelto/Roto/Cruzado,0.00,0.00
+Sensor de desbalance,0.00,Desalineado/Desensamblado,0.00,0.00
+Sensor de desbalance,0.00,Desgastado/Barrido/Cristalizado,0.00,0.00
+Sensor de desbalance,0.00,En Corto/Aterrizado,0.00,0.00
+Sensor de desbalance,0.00,Pegado/Congelado/Atrancado,0.00,0.00
+Sensor de desbalance,0.00,Quebrado/Trozado/Arrancado,0.00,0.00
+Sensor de desbalance,0.00,Quemado,0.00,0.00
+Sistema de Suspensión/Varilla,0.00,Abierto/Alambrado Abierto,0.00,0.00
+Sistema de Suspensión/Varilla,0.00,Deformado/Torcido,0.00,1.00
+Sistema de Suspensión/Varilla,0.00,Desalineado/Desensamblado,0.00,0.00
+Sistema de Suspensión/Varilla,0.00,Desgastado/Barrido/Cristalizado,0.00,0.00
+Sistema de Suspensión/Varilla,0.00,Oxidado/Corroído,0.00,0.00
+Sistema de Suspensión/Varilla,0.00,Pegado/Congelado/Atrancado,0.00,0.00
+Sistema de Suspensión/Varilla,0.00,Quebrado/Trozado/Arrancado,0.00,2.00
+Sistema de Suspensión/Varilla,0.00,Ruido/Nivel de Sonido Excesivo,0.00,0.00
+Sistema de Suspensión/Varilla,0.00,Suelto/Desprendido/Flojo,0.00,1.00
+Soporte Tina,0.00,Quebrado/Trozado/Arrancado,0.00,0.00
+Sujetador Canasta/TuercaSpanner (Block/Nut Basket Drive),0.00,Desalineado/Desensamblado,0.00,0.00
+Sujetador Canasta/TuercaSpanner (Block/Nut Basket Drive),0.00,Desgastado/Barrido/Cristalizado,0.00,0.00
+Sujetador Canasta/TuercaSpanner (Block/Nut Basket Drive),0.00,Oxidado/Corroído,0.00,0.00
+Sujetador Canasta/TuercaSpanner (Block/Nut Basket Drive),0.00,Pegado/Congelado/Atrancado,0.00,0.00
+Sujetador Canasta/TuercaSpanner (Block/Nut Basket Drive),0.00,Quebrado/Trozado/Arrancado,0.00,1.00
+Sujetador Canasta/TuercaSpanner (Block/Nut Basket Drive),0.00,Ruido/Nivel de Sonido Excesivo,0.00,0.00
+Sujetador Canasta/TuercaSpanner (Block/Nut Basket Drive),0.00,Suelto/Desprendido/Flojo,0.00,0.00
+Tapas / Cubiertas Traseras (Backguard),0.00,Desalineado/Desensamblado,0.00,0.00
+Tapas / Cubiertas Traseras (Backguard),0.00,Oxidado/Corroído,0.00,0.00
+Tapas / Cubiertas Traseras (Backguard),0.00,Quebrado/Trozado/Arrancado,0.00,0.00
+Tapas / Cubiertas Traseras (Backguard),0.00,Recubrimiento Defectuoso/Mal Esmaltado,0.00,0.00
+Tapas / Cubiertas Traseras (Backguard),0.00,Suelto/Desprendido/Flojo,0.00,0.00
+Tapas / Cubiertas Traseras (Backguard),0.00,Tornillos/Pijas Flojos/Sueltos/Faltantes/Barridos,0.00,0.00
+Tina,0.00,Deformado/Torcido,0.00,0.00
+Tina,0.00,Desalineado/Desensamblado,0.00,1.00
+Tina,0.00,Desgastado/Barrido/Cristalizado,0.00,0.00
+Tina,0.00,Fugas/Se Verificaron Fugas,0.00,0.00
+Tina,0.00,Objeto Extraño Removido,0.00,0.00
+Tina,0.00,Oxidado/Corroído,0.00,0.00
+Tina,0.00,Quebrado/Trozado/Arrancado,0.00,1.00
+Tina,0.00,Recubrimiento Defectuoso/Mal Esmaltado,0.00,0.00
+Tina,0.00,Ruido/Nivel de Sonido Excesivo,0.00,0.00
+Tina,0.00,Suelto/Desprendido/Flojo,0.00,0.00
+Valvula de drenado (ALD),0.00,Cable Suelto/Roto/Cruzado,0.00,0.00
+Valvula de drenado (ALD),0.00,Desalineado/Desensamblado,0.00,0.00
+Valvula de drenado (ALD),0.00,Fugas/Se Verificaron Fugas,0.00,0.00
+Valvula de drenado (ALD),0.00,Pegado/Congelado/Atrancado,0.00,0.00
+Valvula de drenado (ALD),0.00,Quebrado/Trozado/Arrancado,0.00,0.00
+Valvula de drenado (ALD),0.00,Suelto/Desprendido/Flojo,0.00,0.00
+Válvula Mezcladora/de Entrada/Electroválvula,0.00,Abierto/Alambrado Abierto,0.00,1.00
+Válvula Mezcladora/de Entrada/Electroválvula,0.00,Cable Suelto/Roto/Cruzado,0.00,0.00
+Válvula Mezcladora/de Entrada/Electroválvula,0.00,Desalineado/Desensamblado,0.00,0.00
+Válvula Mezcladora/de Entrada/Electroválvula,0.00,Empaque/Sello Defectuoso/Faltante,0.00,0.00
+Válvula Mezcladora/de Entrada/Electroválvula,0.00,En Corto/Aterrizado,0.00,0.00
+Válvula Mezcladora/de Entrada/Electroválvula,0.00,Fugas/Se Verificaron Fugas,0.00,0.00
+Válvula Mezcladora/de Entrada/Electroválvula,0.00,Pegado/Congelado/Atrancado,0.00,0.00
+Válvula Mezcladora/de Entrada/Electroválvula,0.00,Quebrado/Trozado/Arrancado,0.00,0.00
+Válvula Mezcladora/de Entrada/Electroválvula,0.00,Quemado,0.00,1.00
+Válvula Mezcladora/de Entrada/Electroválvula,0.00,Ruido/Nivel de Sonido Excesivo,0.00,0.00
+Válvula Mezcladora/de Entrada/Electroválvula,0.00,Tapado/Bloqueado/Restringido/Sucio,0.00,0.00
